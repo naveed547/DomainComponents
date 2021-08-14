@@ -1,5 +1,4 @@
 # DomainComponents
----
 
 This example demos a basic host application loading from different remote component.
 
@@ -7,7 +6,6 @@ This example demos a basic host application loading from different remote compon
 - LibApp holds all the node_modules, store and context used across the remote.
 
 ## Running Demo
----
 
 1. Clone LibApp Remote as a sibling folder to DomainComponents
     - Under LibApp
