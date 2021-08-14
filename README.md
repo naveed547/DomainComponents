@@ -10,16 +10,16 @@ This example demos a basic host application loading from different remote compon
 -------------
 
 1. Clone LibApp Remote as a sibling folder to DomainComponents
-  Under LibApp
+  - Under LibApp
     * npm install
     * npm start
 2. Clone UIComponents Remote as a sibling folder to DomainComponents
-  Under UIComponents
+  - Under UIComponents
     * npm install
     * npm start
 3. Under DomainComponnents Remote
-  * npm install
-  * npm start
+    * npm install
+    * npm start
 
 
 * localhost:8085 (STANDALONE REMOTE LibApp holds all lib, store and context)
